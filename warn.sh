@@ -1,0 +1,1 @@
+espeak "wait 2 to 3 minutes until we install language packs "
